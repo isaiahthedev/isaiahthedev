@@ -1,4 +1,4 @@
-# 👨🏿‍💻 Isaiah the Dev
+# 👨🏿‍💻 Isaiah Moore
 
 I'm a freelance web developer and content creator studying full stack with the goal of getting employement as a front-end developer by August 2024. I started taking coding seriously in August of 2023 and have been learning full time ever since. I enjoy contributing to open source projects, helping businesses with their online presence, and working on personal projects for my portfolio and side hustles. I also have a YouTube channel ["IsaiahTheDev"](https://www.youtube.com/@isaiah_thedev/videos), where I post tutorials, updates, and other content.
 
