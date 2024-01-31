@@ -4,7 +4,7 @@ I'm a freelance web developer and content creator studying full stack with the g
 
 ## Projects I've Completed
 - **❌ Tic Tac Toe**: The classic Tic Tac Toe game built using React.js. [Live Here](https://codepen.io/isaiahflorida/pen/dyaLGPP)
-- **🥁 Drum Machine**: A virtual drum machine that lets users make beats built using React.js. [Live Here](https://codepen.io/isaiahflorida/pen/WNPgOXq)
+- **🥁 Drum Machine**: A virtual drum machine that lets users make beats. Built using React.js. [Live Here](https://codepen.io/isaiahflorida/pen/WNPgOXq)
 - **🖩 JavaScript Calculator** A calculator built using React.js. [Live Here](https://codepen.io/isaiahflorida/pen/wvNQjQw)
 
 ## Projects I'm Working on
