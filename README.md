@@ -1,6 +1,6 @@
 # 👨🏿‍💻 Isaiah Moore
 
-I'm a freelance web developer and content creator studying full stack with the goal of getting employement as a front-end developer using the MERN stack by August 2024. I started taking coding seriously in August of 2023 and have been learning full time ever since. I enjoy contributing to open source projects, helping businesses with their online presence, and working on personal projects for my portfolio and side hustles. I also have a YouTube channel ["IsaiahTheDev"](https://www.youtube.com/@isaiah_thedev/videos), where I post tutorials, updates, and other content.
+I'm a freelance web developer and content creator studying full stack with the goal of getting employement as a front-end developer using the React and Typscript by August 2024. I started taking coding seriously in August of 2023 and have been learning full time ever since. I enjoy contributing to open source projects, helping businesses with their online presence, and working on personal projects for my portfolio and side hustles. I also have a YouTube channel ["IsaiahTheDev"](https://www.youtube.com/@isaiah_thedev/videos), where I post tutorials, updates, and other content.
 
 ## Projects I've Completed
 - **❌ Tic Tac Toe**: The classic Tic Tac Toe game built using React.js. [Live Here](https://codepen.io/isaiahflorida/pen/dyaLGPP)
